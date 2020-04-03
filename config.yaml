@@ -1,0 +1,28 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Alex Benjamin
+    tagline: >-
+      I am Alex Benjamin a computer science student,am interested in learning
+      programing in c++,i want this community to help 
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--V-g89oke--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/360132/8321802d-a9f5-447a-9c59-1e35722db461.jpeg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
